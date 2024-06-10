@@ -32,6 +32,7 @@ html {
     overflow-x: hidden;
 
     font-family: 'TT Norms Pro', sans-serif;
+    font-display: optional;
     font-size: 1rem; 
     font-weight: 300;
 }
