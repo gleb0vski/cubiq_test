@@ -1,4 +1,4 @@
-:root {
+um:root {
     --clr-white: hsla(0, 0%, 100%, 1);
     --clr-deep-blue: hsla(212, 23%, 11%, 1);
     --clr-light-blue:hsla(208, 18%, 47%, 1);
@@ -35,9 +35,9 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(fonts/TTNorms-Normal.woff2) format('woff2'),
-       url(fonts/TTNorms-Normal.woff) format('woff'),
-       url(fonts/TTNorms-Normal.ttf) format('truetype'),
+  src: url(fonts/TTNorms-Medium.woff2) format('woff2'),
+       url(fonts/TTNorms-Medium.woff) format('woff'),
+       url(fonts/TTNorms-Medium.ttf) format('truetype'),
 }
 
 @font-face {
